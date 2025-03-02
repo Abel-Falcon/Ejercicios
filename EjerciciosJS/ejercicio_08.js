@@ -10,3 +10,5 @@ const miFuncion = (arreglo, buscar) => {
 };
 
 console.log(miFuncion("xyz1, xyz2, xyz3, xyz4 y xyz5", "xyz"));
+
+//Esta mal pero, no vayas a copiar
