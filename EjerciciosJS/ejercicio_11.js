@@ -10,3 +10,4 @@ const factorial = (numero) => {
 };
 
 console.log(factorial(5));
+//No está bien
